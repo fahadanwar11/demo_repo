@@ -1,2 +1,2 @@
 # demo_repo
-A repository created for practice.
+A repository created for my practice.
